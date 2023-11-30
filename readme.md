@@ -25,7 +25,7 @@ To use Webpack, you typically create a configuration file (usually named `webpac
 
 Here's a simple example of a `webpack.config.js` file:
 
-`javascript
+```javascript
 const path = require('path')
 
 module.exports = {
@@ -48,6 +48,7 @@ module.exports = {
   },
   // Add plugins and other configuration as needed.
 };
+```
 
 
 1. Steps
